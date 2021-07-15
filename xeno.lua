@@ -1,5 +1,4 @@
-
-	local maincolor = Color3.fromRGB(255, 255, 204)
+local maincolor = Color3.fromRGB(136, 8, 8)
 	local firstpage = '' 
 	local old = game.CoreGui:FindFirstChild('ScreenGui') 
 	if old  then 
@@ -1366,5 +1365,3 @@
 		end
 		return TabHandler
 	end
-
-
