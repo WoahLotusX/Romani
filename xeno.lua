@@ -1368,11 +1368,3 @@
 	end
 
 
-local a = library:NewWindow("","HUB") -- Change to anything
-local b = a:NewSection("Ui library")
-local d= a:NewSection("Example")
-
-
-b:Toggle("sex",_G.AmongUs,function(sex)
-	_G.AmongUs = sex
-end)
