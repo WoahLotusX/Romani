@@ -190,7 +190,7 @@ function lib:Window(gametxt)
 	TopFrameTitle.Position = UDim2.new(0, 31, 0, 0)
 	TopFrameTitle.Size = UDim2.new(1, -10, 1, 0)
 	TopFrameTitle.Font = Enum.Font.Gotham
-	TopFrameTitle.Text = "<font color=\"rgb(255,0,0)\">Red</font><font color=\"rgb(230,230,230)\"> eye</font>"
+	TopFrameTitle.Text = "<font color=\"rgb(147,112,219)\">Lotus</font><font color=\"rgb(230,230,230)\"> Hub</font>"
 	TopFrameTitle.TextColor3 = Color3.fromRGB(255, 255, 255)
 	TopFrameTitle.TextSize = 14.000
 	TopFrameTitle.TextXAlignment = Enum.TextXAlignment.Left
